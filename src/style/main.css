@@ -1,0 +1,36 @@
+.container{
+  background-color: #4a73ec;
+  border-radius: 0.5rem;
+  margin: 0 auto;
+  max-width: 50rem;
+  padding: 1rem;
+  width: 80%;
+}
+
+#page_title {
+  text-align: center;
+}
+
+.wrap{
+  background-color: white;
+  border: 0.1rem solid white;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+  padding: 0.5rem;
+}
+
+.title{
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.textarea{
+  background-color: #fff;
+  border: solid 0.1rem #000;
+  height: 12rem;
+  width: 99%;
+}
+
+#preview{
+  overflow: scroll;
+}

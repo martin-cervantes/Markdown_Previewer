@@ -1,6 +1,6 @@
 # Markdown Previewer
 
-This project is markdown editor with a live preview. When you enter GitHub flavored markdown into the editor, the text is rendered as HTML in the preview as you type.
+This project is markdown editor with a live preview. When you enter GitHub flavored markdown into the editor, the text is rendered as HTML in the previewer as you type.
 
 ![screenshot](./Screenshot.png)
 
